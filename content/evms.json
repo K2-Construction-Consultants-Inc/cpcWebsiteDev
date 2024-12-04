@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "title": "Earned Value Management Systems",
+    "subtitle": "Comprehensive EVMS solutions for effective project performance measurement and control",
+    "video": "images/video-evms.webm"
+  },
+  "overview": {
+    "title": "EVMS Excellence",
+    "content": [
+      "Our Earned Value Management Systems team provides comprehensive solutions to help organizations implement, maintain, and optimize their EVMS programs. We combine deep expertise with proven methodologies to ensure compliance and drive project success.",
+      "K2's Critical Path Controls division specializes in helping organizations achieve and maintain compliance with EIA-748 guidelines. Our team of experts provides comprehensive EVMS services including system design, implementation, training, and sustainment support.",
+      "We understand that implementing and maintaining an effective EVMS requires more than just technical knowledge. Our approach combines industry best practices with practical experience to deliver solutions that work in the real world."
+    ],
+    "banner": "images/service-earned-value.jpg",
+    "features": [
+      {
+        "icon": "fa-check-circle",
+        "title": "EVMS Compliance",
+        "description": "Expert guidance to achieve and maintain compliance with EIA-748 guidelines"
+      },
+      {
+        "icon": "fa-chart-bar",
+        "title": "Performance Measurement",
+        "description": "Robust systems for tracking and analyzing project performance metrics"
+      },
+      {
+        "icon": "fa-cogs",
+        "title": "System Integration",
+        "description": "Seamless integration of EVMS with existing project control systems"
+      },
+      {
+        "icon": "fa-graduation-cap",
+        "title": "Training & Support",
+        "description": "Comprehensive training and ongoing support for EVMS implementation"
+      }
+    ]
+  },
+  "services": {
+    "title": "Our EVMS Services",
+    "content": [
+      "K2's Critical Path Controls division offers a comprehensive suite of EVMS services designed to help organizations implement, maintain, and optimize their earned value management systems. Our services include:",
+      "System Design & Implementation: We help organizations design and implement EVMS that meet their specific needs while ensuring compliance with industry standards.",
+      "Compliance Support: Our team provides expert guidance for achieving and maintaining compliance with EIA-748 guidelines and contractual requirements.",
+      "Training & Education: We offer comprehensive training programs to help your team understand and effectively use EVMS tools and techniques.",
+      "System Assessment & Optimization: Regular system assessments and optimization recommendations to ensure your EVMS continues to meet your needs.",
+      "Integration Services: Seamless integration of EVMS with existing project control systems and processes."
+    ],
+    "video": "images/video-evms.webm"
+  },
+  "approach": {
+    "title": "Our Approach",
+    "details": [
+      {
+        "title": "Initial Assessment",
+        "description": "We begin with a thorough assessment of your current systems and processes to develop a tailored EVMS implementation strategy."
+      },
+      {
+        "title": "System Design",
+        "description": "Our team designs comprehensive EVMS solutions that align with your organization's needs and compliance requirements."
+      },
+      {
+        "title": "Implementation Support",
+        "description": "We provide expert guidance and support throughout the implementation process to ensure successful adoption."
+      },
+      {
+        "title": "Ongoing Optimization",
+        "description": "Continuous monitoring and improvement of your EVMS to maintain effectiveness and compliance."
+      }
+    ]
+  },
+  "blog": {
+    "title": "Latest EVMS Insights",
+    "posts": [
+      {
+        "title": "Best Practices for EVMS Implementation",
+        "date": "December 1, 2023",
+        "image": "images/service-earned-value.jpg",
+        "excerpt": "Implementing an Earned Value Management System requires careful planning and execution. Learn about the key factors for success and common pitfalls to avoid.",
+        "content": [
+          "Implementing an Earned Value Management System (EVMS) is a significant undertaking that requires careful planning, dedicated resources, and a clear understanding of organizational objectives. In this article, we explore key best practices that can help ensure a successful EVMS implementation.",
+          "First and foremost, it's crucial to establish a strong foundation by ensuring executive support and commitment. EVMS implementation affects multiple aspects of project management and requires buy-in from various stakeholders.",
+          "Another critical factor is the development of clear and comprehensive procedures. These procedures should align with the 32 guidelines outlined in EIA-748 while being tailored to your organization's specific needs and processes.",
+          "Training and education play a vital role in successful implementation. All team members should understand not just how to use the system, but why it's important and how it benefits the organization.",
+          "Finally, regular assessment and continuous improvement ensure that your EVMS remains effective and continues to meet your organization's needs as they evolve."
+        ]
+      },
+      {
+        "title": "Leveraging Analytics in EVMS",
+        "date": "November 15, 2023",
+        "image": "images/service-process-analytics.png",
+        "excerpt": "Modern analytics tools can enhance your EVMS capabilities. Discover how data-driven insights can improve project performance tracking and forecasting.",
+        "content": [
+          "The integration of advanced analytics with Earned Value Management Systems represents a significant opportunity to enhance project performance measurement and forecasting capabilities.",
+          "Modern analytics tools can process vast amounts of project data to identify trends, patterns, and potential issues before they impact project performance.",
+          "By leveraging predictive analytics, organizations can move from reactive to proactive project management, addressing potential problems before they affect project outcomes.",
+          "Real-time dashboards and visualizations make it easier for stakeholders at all levels to understand project performance and make informed decisions.",
+          "The combination of EVMS data with other project metrics provides a more comprehensive view of project health and enables more accurate forecasting."
+        ]
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "What is EVMS compliance?",
+        "answer": "EVMS compliance refers to meeting the 32 guidelines outlined in EIA-748. We help organizations understand, implement, and maintain these requirements effectively."
+      },
+      {
+        "question": "How long does EVMS implementation take?",
+        "answer": "Implementation timelines vary based on organization size and complexity, typically ranging from 6-18 months. We provide structured approaches to optimize the implementation process."
+      },
+      {
+        "question": "What training do you provide?",
+        "answer": "We offer comprehensive training programs covering EVMS fundamentals, advanced techniques, and system-specific training tailored to your organization's needs."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Enhance Your Project Performance?",
+    "description": "Contact us to learn how our EVMS expertise can help you achieve your project goals."
+  }
+}

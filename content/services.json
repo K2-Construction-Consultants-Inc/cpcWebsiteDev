@@ -1,0 +1,272 @@
+{
+  "planning_scheduling": {
+    "hero": {
+      "title": "Project Planning & Scheduling",
+      "subtitle": "Expert project planning and scheduling services to ensure your projects stay on track and within budget",
+      "video": "images/video-scheduling.webm"
+    },
+    "overview": {
+      "title": "Comprehensive Project Planning Solutions",
+      "content": [
+        "At K2 Consulting's Critical Path Controls division, we specialize in delivering expert project planning and scheduling services that help organizations achieve their project goals efficiently and effectively. Our team of experienced professionals combines industry best practices with cutting-edge tools to provide comprehensive planning solutions."
+      ],
+      "banner": "images/service-planning-scheduling.jpg",
+      "features": [
+        {
+          "icon": "fa-chart-line",
+          "title": "Schedule Development",
+          "description": "Creation of detailed project schedules using industry-standard tools and methodologies"
+        },
+        {
+          "icon": "fa-tasks",
+          "title": "Resource Optimization",
+          "description": "Strategic resource allocation and optimization to maximize efficiency"
+        },
+        {
+          "icon": "fa-clock",
+          "title": "Timeline Management",
+          "description": "Proactive timeline management and milestone tracking"
+        },
+        {
+          "icon": "fa-chart-bar",
+          "title": "Performance Analysis",
+          "description": "Comprehensive analysis of project performance and progress tracking"
+        }
+      ]
+    },
+    "approach": {
+      "title": "Our Approach",
+      "video": "images/video-scheduling.webm",
+      "details": [
+        {
+          "title": "Initial Assessment",
+          "description": "We begin with a thorough assessment of your project requirements, objectives, and constraints to develop a tailored planning approach."
+        },
+        {
+          "title": "Schedule Development",
+          "description": "Our team creates detailed project schedules using advanced scheduling tools, incorporating all project activities and dependencies."
+        },
+        {
+          "title": "Resource Planning",
+          "description": "We optimize resource allocation to ensure efficient utilization while maintaining project timelines and budget constraints."
+        },
+        {
+          "title": "Risk Management",
+          "description": "Comprehensive risk assessment and mitigation strategies are integrated into our planning process."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "What scheduling software do you use?",
+          "answer": "We utilize industry-leading scheduling software including Primavera P6, Microsoft Project, and other specialized tools based on project requirements."
+        },
+        {
+          "question": "How do you handle schedule changes?",
+          "answer": "Our team implements robust change management processes to assess, document, and communicate schedule changes while maintaining project integrity."
+        },
+        {
+          "question": "Can you integrate with existing systems?",
+          "answer": "Yes, we have extensive experience integrating our planning and scheduling solutions with various project management and enterprise systems."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Optimize Your Project Planning?",
+      "description": "Contact us to learn how our project planning and scheduling expertise can benefit your organization."
+    }
+  },
+  "process_analytics": {
+    "sections": [
+      {
+        "id": "process",
+        "title": "Process",
+        "video": "images/video-process.webm",
+        "content": "Our process optimization services help organizations streamline their operations and improve efficiency through structured methodologies and proven frameworks.",
+        "features": [
+          {
+            "icon": "fa-sitemap",
+            "title": "Process Mapping",
+            "description": "Comprehensive mapping and analysis of business processes to identify improvement opportunities"
+          },
+          {
+            "icon": "fa-chart-line",
+            "title": "Workflow Optimization",
+            "description": "Streamlining workflows to eliminate bottlenecks and enhance productivity"
+          },
+          {
+            "icon": "fa-cogs",
+            "title": "Process Automation",
+            "description": "Implementing automated solutions to reduce manual effort and improve accuracy"
+          },
+          {
+            "icon": "fa-sync",
+            "title": "Continuous Improvement",
+            "description": "Ongoing monitoring and optimization of processes for sustained performance"
+          }
+        ]
+      },
+      {
+        "id": "analytics",
+        "title": "Analytics",
+        "content": "Transform your project data into actionable insights with our advanced analytics capabilities. We leverage cutting-edge tools and techniques to provide comprehensive data analysis and visualization.",
+        "dashboard": {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzE1NDhhYTUtMzJhNy00ZjBiLWE5YmYtNmRhYjkzZjY3NzRkIiwidCI6IjdhMDIxYTJkLWE3MjktNDI5Yi05MzUyLTU2N2RkNjhjMDY4NiIsImMiOjF9",
+          "height": 600
+        },
+        "features": [
+          {
+            "icon": "fa-chart-bar",
+            "title": "Data Visualization",
+            "description": "Interactive dashboards and reports for clear insights and decision-making"
+          },
+          {
+            "icon": "fa-brain",
+            "title": "Predictive Analytics",
+            "description": "Advanced analytics to forecast trends and anticipate project outcomes"
+          },
+          {
+            "icon": "fa-database",
+            "title": "Data Integration",
+            "description": "Seamless integration of multiple data sources for comprehensive analysis"
+          },
+          {
+            "icon": "fa-lightbulb",
+            "title": "Actionable Insights",
+            "description": "Converting data into practical recommendations for project success"
+          }
+        ]
+      },
+      {
+        "id": "technology",
+        "title": "Technology",
+        "video": "images/video-technology.webm",
+        "content": "We leverage cutting-edge technology solutions to enhance project control, visibility, and efficiency across your organization.",
+        "features": [
+          {
+            "icon": "fa-laptop-code",
+            "title": "Custom Solutions",
+            "description": "Tailored technology solutions designed for your specific project needs"
+          },
+          {
+            "icon": "fa-cloud",
+            "title": "Cloud Integration",
+            "description": "Seamless cloud-based solutions for improved accessibility and collaboration"
+          },
+          {
+            "icon": "fa-shield-alt",
+            "title": "Security",
+            "description": "Robust security measures to protect your project data and assets"
+          },
+          {
+            "icon": "fa-mobile-alt",
+            "title": "Mobile Solutions",
+            "description": "Mobile-friendly applications for on-the-go project management"
+          }
+        ]
+      }
+    ],
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "How do you ensure data security?",
+          "answer": "We implement industry-leading security measures and follow best practices to protect your sensitive data throughout all processes and analytics."
+        },
+        {
+          "question": "Can you integrate with our existing systems?",
+          "answer": "Yes, our solutions are designed to integrate seamlessly with your existing technology infrastructure while enhancing capabilities and efficiency."
+        },
+        {
+          "question": "What types of analytics do you provide?",
+          "answer": "We offer a comprehensive suite of analytics including descriptive, diagnostic, predictive, and prescriptive analytics to support informed decision-making."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Transform Your Project Performance?",
+      "description": "Contact us to learn how our Process, Analytics & Technology solutions can optimize your operations."
+    }
+  },
+  "claims_management": {
+    "hero": {
+      "title": "Claims Avoidance and Management",
+      "subtitle": "Proactive strategies and expert management to protect your project interests",
+      "video": "images/video-claims.webm"
+    },
+    "overview": {
+      "title": "Comprehensive Claims Solutions",
+      "content": [
+        "Our Claims Avoidance and Management team provides expert guidance and support to help organizations prevent, manage, and resolve construction claims effectively. We combine industry expertise with proven methodologies to protect your interests throughout the project lifecycle."
+      ],
+      "banner": "images/service-claims-management.jpg",
+      "features": [
+        {
+          "icon": "fa-shield-alt",
+          "title": "Claims Prevention",
+          "description": "Proactive strategies and best practices to minimize the risk of claims"
+        },
+        {
+          "icon": "fa-file-contract",
+          "title": "Contract Review",
+          "description": "Thorough analysis of contract documents to identify and mitigate potential issues"
+        },
+        {
+          "icon": "fa-balance-scale",
+          "title": "Dispute Resolution",
+          "description": "Expert support in resolving claims through negotiation, mediation, or litigation"
+        },
+        {
+          "icon": "fa-chart-line",
+          "title": "Impact Analysis",
+          "description": "Detailed assessment of schedule and cost impacts for effective claim support"
+        }
+      ]
+    },
+    "approach": {
+      "title": "Our Approach",
+      "video": "images/video-claims.webm",
+      "details": [
+        {
+          "title": "Risk Assessment",
+          "description": "We conduct thorough risk assessments to identify potential claims early in the project lifecycle, allowing for proactive mitigation strategies."
+        },
+        {
+          "title": "Documentation Control",
+          "description": "Our team implements robust documentation systems to maintain comprehensive records that support claim prevention and resolution."
+        },
+        {
+          "title": "Change Management",
+          "description": "We establish effective change management processes to track and control project changes that could lead to claims."
+        },
+        {
+          "title": "Expert Analysis",
+          "description": "Our experts provide detailed analysis and expert testimony to support claim resolution and protect your interests."
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "questions": [
+        {
+          "question": "How can we prevent claims?",
+          "answer": "We help implement proactive strategies including robust documentation, clear communication protocols, and effective change management processes to minimize claim risks."
+        },
+        {
+          "question": "What documentation is needed for claims?",
+          "answer": "We assist in maintaining comprehensive records including daily reports, correspondence, schedule updates, and cost tracking to support claim prevention and resolution."
+        },
+        {
+          "question": "How do you handle dispute resolution?",
+          "answer": "Our team provides expert support through various resolution methods, from informal negotiations to formal proceedings, always focusing on achieving optimal outcomes."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Protect Your Project Interests?",
+      "description": "Contact us to learn how our Claims Avoidance and Management expertise can benefit your organization."
+    }
+  }
+}
